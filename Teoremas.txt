@@ -1,0 +1,11 @@
+Teorema de Culer
+
+El desplazamiento general de un cuerpo rígido con un punto fijo es una rotacion respecto algún eje.
+
+
+
+Teorema de Chasles
+
+Cualquie desplazamiento de un cuerpo rígido es equivalente a la suma de la translacion de un puto en el cuerpo y una rotacion respecto a un eje que pase por dicho puto
+
+
